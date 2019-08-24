@@ -1,0 +1,1 @@
+<embed width="100%" height="700" name="pdf_view" id="pdf_view" src="" type="application/pdf">
