@@ -46,6 +46,6 @@
     "select2": "^4.0.6-rc.1",
     "select2-bootstrap-theme": "0.1.0-beta.10",
     "toastr": "^2.1.4",
-    "yarn": "^1.13.0"
+    "yarn": "^1.22.0"
   }
 }
